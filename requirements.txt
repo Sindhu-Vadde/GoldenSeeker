@@ -1,0 +1,47 @@
+# Data Collection
+requests
+beautifulsoup4
+pdfplumber
+
+# Data Processing
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+great-expectations
+
+# NLP
+spacy
+transformers
+sentence-transformers
+torch
+
+# Machine Learning
+scikit-learn
+xgboost
+optuna
+shap
+
+# Experiment Tracking
+mlflow
+
+# Monitoring
+evidently
+
+# API
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# UI
+streamlit
+plotly
+
+# Testing
+pytest
+httpx
+
+# Utilities
+python-dotenv
+loguru
